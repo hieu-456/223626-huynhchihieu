@@ -1,2 +1,2 @@
 # 223626-huynhchihieu
-bài tập buổi 5
+this repository is used for learning github
